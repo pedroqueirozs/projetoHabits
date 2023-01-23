@@ -1,7 +1,8 @@
 <h1 align="center">Habits</h1>
 
 <p align="center">
-NLW é umrograma exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+ Eate projeto foi desenvolvido através da NLW .<br> 
+ NLW é umrograma exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +17,7 @@ NLW é umrograma exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
